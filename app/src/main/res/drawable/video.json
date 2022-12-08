@@ -1,0 +1,19 @@
+{  
+    "data":{
+        "versionCode":10330,
+        "versionName":"1.0.0",
+        "showad":true,
+        "Random":3,
+        "adRandom":1,
+        "updateInfo":"com.playtube.free.mp3songss",
+        "url":"https://play.google.com/store/apps/details?id=com.playtube.free.mp3songss",
+        "update":false,
+        "forceUpdate":false
+    },
+    "path":"com.viddoodl.downloader.ftew",
+    "ads":{
+         "app":"",  
+           "id":""
+    }
+   
+}

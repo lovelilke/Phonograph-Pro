@@ -24,7 +24,7 @@ android {
         renderscriptTargetApi 29
         vectorDrawables.useSupportLibrary = true
 
-        applicationId 'com.music.gramophone'
+        applicationId 'com.music.player'
         versionCode 100
         versionName '1.0.0' + getGitHeadRefsSuffix()
 
