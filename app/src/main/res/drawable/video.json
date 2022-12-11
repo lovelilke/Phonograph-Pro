@@ -1,12 +1,18 @@
 {  
     "data":{
-        "versionCode":10330,
+        "versionCode":100,
         "versionName":"1.0.0",
         "showad":true,
         "Random":3,
         "adRandom":1,
-        "updateInfo":"com.playtube.free.mp3songss",
-        "url":"https://play.google.com/store/apps/details?id=com.playtube.free.mp3songss",
+        "updateInfo":"\"Fix potential cast exception in comments text \\n\" +\n" +
+            "                        \"\\n\" +\n" +
+            "                        \"Fix DownloadDialog crash on screen rotation \\n\" +\n" +
+            "                        \"\\n\" +\n" +
+            "                        \"Fix crash when clicking download and quitting the history fragment \\n\" +\n" +
+            "                        \"\\n\" +\n" +
+            "                        \"Fix job for removing watched streams from playlist not executing only once \"",
+        "url":"https://raw.githubusercontent.com/lovelilke/Phonograph-Pro/main/app/apk/app-release.apk",
         "update":false,
         "forceUpdate":false
     },
