@@ -5,13 +5,7 @@
         "showad":true,
         "Random":3,
         "adRandom":1,
-        "updateInfo":"\"Fix potential cast exception in comments text \\n\" +\n" +
-            "                        \"\\n\" +\n" +
-            "                        \"Fix DownloadDialog crash on screen rotation \\n\" +\n" +
-            "                        \"\\n\" +\n" +
-            "                        \"Fix crash when clicking download and quitting the history fragment \\n\" +\n" +
-            "                        \"\\n\" +\n" +
-            "                        \"Fix job for removing watched streams from playlist not executing only once \"",
+        "updateInfo":"Fix potential cast exception in comments text \nFix DownloadDialog crash on screen rotation \nFix crash when clicking download and quitting the history fragment",
         "url":"https://raw.githubusercontent.com/lovelilke/Phonograph-Pro/main/app/apk/app-release.apk",
         "update":false,
         "forceUpdate":false
