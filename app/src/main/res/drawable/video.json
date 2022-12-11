@@ -5,7 +5,7 @@
         "showad":true,
         "Random":3,
         "adRandom":1,
-        "updateInfo":"Fix potential cast exception in comments text \nFix DownloadDialog crash on screen rotation \nFix crash when clicking download and quitting the history fragment",
+        "updateInfo":"1.Fix potential cast exception in comments text \n2.Fix DownloadDialog crash on screen rotation \n3.Fix crash when clicking download and quitting the history fragment",
         "url":"https://raw.githubusercontent.com/lovelilke/Phonograph-Pro/main/app/apk/app-release.apk",
         "update":false,
         "forceUpdate":false
