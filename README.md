@@ -3,8 +3,7 @@
 <h4 align="center">A libre lightweight streaming front-end for Android.</h4>
 
 
-<p align="center">
-<a href="https://github.com/TeamNewPipe/NewPipe/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe.svg" ></a>
+
 
 <hr>
 
